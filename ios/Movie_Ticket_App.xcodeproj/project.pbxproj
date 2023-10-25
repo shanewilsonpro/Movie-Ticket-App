@@ -9,11 +9,32 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* Movie_Ticket_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Movie_Ticket_AppTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-Movie_Ticket_App.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Movie_Ticket_App.a */; };
+		0C8C0377297148A1A3F2A9FD /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6761A74E8EB942DCB7F72292 /* Poppins-ExtraBold.ttf */; };
+		0CD681A919E04E08B2855297 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ED6D98BAEC7B4125878BEE45 /* Poppins-ExtraLightItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1687AEC5E7694AC486E26BCE /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93834E6752CF42DE80567D3E /* Poppins-ThinItalic.ttf */; };
+		302E2EAE48D0443D8CE1799B /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E20B0B84BA3E4A8BAF5FE792 /* Poppins-SemiBold.ttf */; };
+		4C260548ACDA4E7B8656E241 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB6CE695E2B646E2932E486C /* Poppins-BoldItalic.ttf */; };
+		5BE19878BD4C4F759C5CD346 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4877C52E707496B8102F5AE /* Poppins-MediumItalic.ttf */; };
+		5DB13378BB0F4E7897742CCC /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83F2E6F4BA38448A910F5BD5 /* Poppins-LightItalic.ttf */; };
+		632111265F0041CFB7D1C970 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ECFF5AD4B8DC491E827ABFAD /* Poppins-BlackItalic.ttf */; };
+		65C5F00D03E84A879CC487BE /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 469B9247FC4E4839B78A1DC7 /* Poppins-Light.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Movie_Ticket_App-Movie_Ticket_AppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Movie_Ticket_App-Movie_Ticket_AppTests.a */; };
+		7B6A3162634E4982B600EEAD /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BC6199D40D545D8AE49B436 /* Poppins-Black.ttf */; };
+		7D46969A6AB44A9DACB91216 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A7EC34F2C2AF4C16A714D1EB /* Poppins-Thin.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		96DDC79C8C744B03BBF8AE06 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87DE416F308842DCA50B2580 /* Poppins-Medium.ttf */; };
+		9B6463EBFCF24C38A1078308 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27345C3C715544D5AC719FE3 /* Poppins-Bold.ttf */; };
+		A21B6E0E1E9B4405AF58863E /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B78D93D60A974545AED4AD77 /* Poppins-ExtraLight.ttf */; };
+		BB1C520C656E4F15898076C3 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59FDEFB77ED7474980BA504B /* Poppins-ExtraBoldItalic.ttf */; };
+		CAAA9AC654944FFEAA097502 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4851EF10A48849BCAF7654C9 /* Poppins-SemiBoldItalic.ttf */; };
+		D4B61F00E63E43209BD27F73 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = B16E600A583A49909A928923 /* avatar.png */; };
+		E5C33BF63E1E4689AC2F83FD /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1079DBE66B64497987017042 /* Poppins-Regular.ttf */; };
+		EA6481CBD14049C785FD152A /* app_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6FA35FDB47D44ADDBEB28A62 /* app_icons.ttf */; };
+		F00BB05C2F2646A9B0AE42C2 /* barcode.png in Resources */ = {isa = PBXBuildFile; fileRef = 27E5FD95195044ED8BDA902D /* barcode.png */; };
+		FF365B3A24E340F886CC7A7B /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5D81104881C412F9C7BFCB3 /* Poppins-Italic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +51,7 @@
 		00E356EE1AD99517003FC87E /* Movie_Ticket_AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Movie_Ticket_AppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* Movie_Ticket_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Movie_Ticket_AppTests.m; sourceTree = "<group>"; };
+		1079DBE66B64497987017042 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Movie_Ticket_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movie_Ticket_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Movie_Ticket_App/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Movie_Ticket_App/AppDelegate.mm; sourceTree = "<group>"; };
@@ -37,13 +59,33 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Movie_Ticket_App/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Movie_Ticket_App/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Movie_Ticket_App-Movie_Ticket_AppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Movie_Ticket_App-Movie_Ticket_AppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27345C3C715544D5AC719FE3 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		27E5FD95195044ED8BDA902D /* barcode.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = barcode.png; path = ../src/assets/image/barcode.png; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Movie_Ticket_App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie_Ticket_App.debug.xcconfig"; path = "Target Support Files/Pods-Movie_Ticket_App/Pods-Movie_Ticket_App.debug.xcconfig"; sourceTree = "<group>"; };
+		469B9247FC4E4839B78A1DC7 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
+		4851EF10A48849BCAF7654C9 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Movie_Ticket_App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie_Ticket_App.release.xcconfig"; path = "Target Support Files/Pods-Movie_Ticket_App/Pods-Movie_Ticket_App.release.xcconfig"; sourceTree = "<group>"; };
+		59FDEFB77ED7474980BA504B /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Movie_Ticket_App-Movie_Ticket_AppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie_Ticket_App-Movie_Ticket_AppTests.debug.xcconfig"; path = "Target Support Files/Pods-Movie_Ticket_App-Movie_Ticket_AppTests/Pods-Movie_Ticket_App-Movie_Ticket_AppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Movie_Ticket_App.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Movie_Ticket_App.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6761A74E8EB942DCB7F72292 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../src/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		6BC6199D40D545D8AE49B436 /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../src/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
+		6FA35FDB47D44ADDBEB28A62 /* app_icons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = app_icons.ttf; path = ../src/assets/fonts/app_icons.ttf; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Movie_Ticket_App/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		83F2E6F4BA38448A910F5BD5 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../src/assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		87DE416F308842DCA50B2580 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Movie_Ticket_App-Movie_Ticket_AppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie_Ticket_App-Movie_Ticket_AppTests.release.xcconfig"; path = "Target Support Files/Pods-Movie_Ticket_App-Movie_Ticket_AppTests/Pods-Movie_Ticket_App-Movie_Ticket_AppTests.release.xcconfig"; sourceTree = "<group>"; };
+		93834E6752CF42DE80567D3E /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ThinItalic.ttf"; path = "../src/assets/fonts/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		A7EC34F2C2AF4C16A714D1EB /* Poppins-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Thin.ttf"; path = "../src/assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		B16E600A583A49909A928923 /* avatar.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = avatar.png; path = ../src/assets/image/avatar.png; sourceTree = "<group>"; };
+		B78D93D60A974545AED4AD77 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLight.ttf"; path = "../src/assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		D4877C52E707496B8102F5AE /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-MediumItalic.ttf"; path = "../src/assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		E20B0B84BA3E4A8BAF5FE792 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		EB6CE695E2B646E2932E486C /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../src/assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		ECFF5AD4B8DC491E827ABFAD /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../src/assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		ED6D98BAEC7B4125878BEE45 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		F5D81104881C412F9C7BFCB3 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../src/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +164,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				B4DB7AA539E34170B80EBF96 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +178,35 @@
 				00E356EE1AD99517003FC87E /* Movie_Ticket_AppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B4DB7AA539E34170B80EBF96 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6BC6199D40D545D8AE49B436 /* Poppins-Black.ttf */,
+				ECFF5AD4B8DC491E827ABFAD /* Poppins-BlackItalic.ttf */,
+				27345C3C715544D5AC719FE3 /* Poppins-Bold.ttf */,
+				EB6CE695E2B646E2932E486C /* Poppins-BoldItalic.ttf */,
+				6761A74E8EB942DCB7F72292 /* Poppins-ExtraBold.ttf */,
+				59FDEFB77ED7474980BA504B /* Poppins-ExtraBoldItalic.ttf */,
+				B78D93D60A974545AED4AD77 /* Poppins-ExtraLight.ttf */,
+				ED6D98BAEC7B4125878BEE45 /* Poppins-ExtraLightItalic.ttf */,
+				F5D81104881C412F9C7BFCB3 /* Poppins-Italic.ttf */,
+				469B9247FC4E4839B78A1DC7 /* Poppins-Light.ttf */,
+				83F2E6F4BA38448A910F5BD5 /* Poppins-LightItalic.ttf */,
+				87DE416F308842DCA50B2580 /* Poppins-Medium.ttf */,
+				D4877C52E707496B8102F5AE /* Poppins-MediumItalic.ttf */,
+				1079DBE66B64497987017042 /* Poppins-Regular.ttf */,
+				E20B0B84BA3E4A8BAF5FE792 /* Poppins-SemiBold.ttf */,
+				4851EF10A48849BCAF7654C9 /* Poppins-SemiBoldItalic.ttf */,
+				A7EC34F2C2AF4C16A714D1EB /* Poppins-Thin.ttf */,
+				93834E6752CF42DE80567D3E /* Poppins-ThinItalic.ttf */,
+				6FA35FDB47D44ADDBEB28A62 /* app_icons.ttf */,
+				B16E600A583A49909A928923 /* avatar.png */,
+				27E5FD95195044ED8BDA902D /* barcode.png */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -244,6 +316,27 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7B6A3162634E4982B600EEAD /* Poppins-Black.ttf in Resources */,
+				632111265F0041CFB7D1C970 /* Poppins-BlackItalic.ttf in Resources */,
+				9B6463EBFCF24C38A1078308 /* Poppins-Bold.ttf in Resources */,
+				4C260548ACDA4E7B8656E241 /* Poppins-BoldItalic.ttf in Resources */,
+				0C8C0377297148A1A3F2A9FD /* Poppins-ExtraBold.ttf in Resources */,
+				BB1C520C656E4F15898076C3 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				A21B6E0E1E9B4405AF58863E /* Poppins-ExtraLight.ttf in Resources */,
+				0CD681A919E04E08B2855297 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				FF365B3A24E340F886CC7A7B /* Poppins-Italic.ttf in Resources */,
+				65C5F00D03E84A879CC487BE /* Poppins-Light.ttf in Resources */,
+				5DB13378BB0F4E7897742CCC /* Poppins-LightItalic.ttf in Resources */,
+				96DDC79C8C744B03BBF8AE06 /* Poppins-Medium.ttf in Resources */,
+				5BE19878BD4C4F759C5CD346 /* Poppins-MediumItalic.ttf in Resources */,
+				E5C33BF63E1E4689AC2F83FD /* Poppins-Regular.ttf in Resources */,
+				302E2EAE48D0443D8CE1799B /* Poppins-SemiBold.ttf in Resources */,
+				CAAA9AC654944FFEAA097502 /* Poppins-SemiBoldItalic.ttf in Resources */,
+				7D46969A6AB44A9DACB91216 /* Poppins-Thin.ttf in Resources */,
+				1687AEC5E7694AC486E26BCE /* Poppins-ThinItalic.ttf in Resources */,
+				EA6481CBD14049C785FD152A /* app_icons.ttf in Resources */,
+				D4B61F00E63E43209BD27F73 /* avatar.png in Resources */,
+				F00BB05C2F2646A9B0AE42C2 /* barcode.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
