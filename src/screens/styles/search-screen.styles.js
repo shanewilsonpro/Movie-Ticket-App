@@ -1,9 +1,23 @@
-import { StyleSheet } from "react-native";
-import { COLORS } from "../../theme/theme";
+import { StyleSheet, Dimensions } from "react-native";
+import { COLORS, SPACING } from "../../theme/theme";
+
+const { width } = Dimensions.get("screen");
 
 export const styles = StyleSheet.create({
-  container: {
+  Container: {
     display: "flex",
-    backgroundColor: COLORS.White,
+    flex: 1,
+    width,
+    alignItems: "center",
+    backgroundColor: COLORS.Black,
+  },
+  InputHeaderContainer: {
+    display: "flex",
+    marginHorizontal: SPACING.space_36,
+    marginTop: SPACING.space_28,
+    marginBottom: SPACING.space_28 - SPACING.space_12,
+  },
+  CenterContainer: {
+    alignItems: "center",
   },
 });
