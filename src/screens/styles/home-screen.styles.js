@@ -1,9 +1,24 @@
 import { StyleSheet } from "react-native";
-import { COLORS } from "../../theme/theme";
+import { COLORS, SPACING } from "../../theme/theme";
 
 export const styles = StyleSheet.create({
-  container: {
+  Container: {
     display: "flex",
-    backgroundColor: COLORS.White,
+    backgroundColor: COLORS.Black,
+  },
+  ScrollViewContainer: {
+    flex: 1,
+  },
+  LoadingContainer: {
+    flex: 1,
+    alignSelf: "center",
+    justifyContent: "center",
+  },
+  InputHeaderContainer: {
+    marginHorizontal: SPACING.space_36,
+    marginTop: SPACING.space_28,
+  },
+  ContainerGap36: {
+    gap: SPACING.space_36,
   },
 });
